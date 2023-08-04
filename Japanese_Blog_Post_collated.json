@@ -1,1 +1,14 @@
-ew0KICAgICJjb3VudCI6IDEsDQogICAgIm5leHQiOiBudWxsLA0KICAgICJwcmV2aW91cyI6IG51bGwsDQogICAgInJlc3VsdHMiOiBbDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICJmNWVjYmU4Mi00ODk1LTQ0NGItYmJmMy1mYWVjMTNmMDA1YzUiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJKYXBhbmVzZSIsDQogICAgICAgICAgICAidHlwZSI6ICJCbG9nX1Bvc3QiLA0KICAgICAgICAgICAgInN0YXR1cyI6ICJwcml2YXRlIiwNCiAgICAgICAgICAgICJ2aWRlb1VybCI6ICJodHRwczovL3d3dy50aGVhcnRvZmRyb3duaW5nLmNvbS9BSUNvbnRlbnQvQmxvZ19Qb3N0L0phcGFuZXNlL2Y1ZWNiZTgyLTQ4OTUtNDQ0Yi1iYmYzLWZhZWMxM2YwMDVjNS9mNWVjYmU4Mi00ODk1LTQ0NGItYmJmMy1mYWVjMTNmMDA1YzUubXA0Ig0KICAgICAgICB9DQogICAgXQ0KfQ==
+{
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "f5ecbe82-4895-444b-bbf3-faec13f005c5",
+            "collectionId": "Japanese",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Japanese/Japanese_Blog_Post/f5ecbe82-4895-444b-bbf3-faec13f005c5/f5ecbe82-4895-444b-bbf3-faec13f005c5_ja_Female.mp4"
+        }
+    ]
+}
